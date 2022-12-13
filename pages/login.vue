@@ -36,7 +36,7 @@
           username: "",
           password: "",
         },
-        errors:{}
+        errors:{},
       }
     },
     methods: {
